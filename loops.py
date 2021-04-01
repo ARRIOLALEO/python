@@ -9,5 +9,5 @@ while counter < 2:
     print(f"{counter}")
     counter += 1
 
-for i in [0,1,2,3]:
+for i in range(25):
     print(f"{i}")
